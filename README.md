@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Heejin's Resume
 
 You can use the [editor on GitHub](https://github.com/July0313/july0313.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -30,6 +30,8 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+대충 여기 이미지도 넣고~ 링크도 넣고~
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
