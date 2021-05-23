@@ -30,6 +30,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+![이미지](https://user-images.githubusercontent.com/64318091/119260263-0c2ffb80-bc0d-11eb-83c4-da059e224300.png)
 
 대충 여기 이미지도 넣고~ 링크도 넣고~
 ```
