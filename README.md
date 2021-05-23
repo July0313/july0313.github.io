@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+마크 다운 사용해서 편집하기!
 
 ```markdown
 Syntax highlighted code block
@@ -17,9 +18,14 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- 안녕하세요
+- 반갑습니다
+- Hello
 
 1. Numbered
 2. List
+3. 숫자 매기기
+4. **재**_밌_'다'
 
 **Bold** and _Italic_ and `Code` text
 
