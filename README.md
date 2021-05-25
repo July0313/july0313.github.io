@@ -1,14 +1,15 @@
-# GMGM 산출 보고서
+# **GMGM 산출 보고서**
 
-## GIGDC 출품작🗒️
+## **🗒️GIGDC 출품작**
 
 - ### **새우킹우기** [Click Here](https://www.youtube.com/watch?v=sw-D3gNTPn8)
-	성안의 감염체들과 싸우는 3D RPG게임
+	새우를 키워 성장시키는 클리커 아케이드 게임
 	
 - ### **PPing** [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
 	대충 퍼즐 게임
 	
 - ### **COD** (Castle of Death) [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
+	성안의 감염체들과 싸우는 3D RPG게임
 
 
 ## 새우킹우기
