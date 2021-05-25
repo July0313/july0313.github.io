@@ -2,13 +2,13 @@
 
 ## GIGDC 출품작🗒️
 
-- ### 새우킹우기 [Click](https://www.youtube.com/watch?v=sw-D3gNTPn8)
+- ### **새우킹우기** [Click Here](https://www.youtube.com/watch?v=sw-D3gNTPn8)
 	성안의 감염체들과 싸우는 3D RPG게임
 	
-- ### PPing [Click](http://www.gigdc.or.kr/sub01/sub03.php)
+- ### **PPing** [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
+	대충 퍼즐 게임
 	
-	
-- ### 꼬마 온라인 [Click](http://www.gigdc.or.kr/sub01/sub03.php)
+- ### **COD** (Castle of Death) [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
 
 
 ## 새우킹우기
