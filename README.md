@@ -2,12 +2,13 @@
 
 ## GIGDC 출품작🗒️
 
-- ### 새우킹우기
-- ### PPing
-- ### 꼬마 온라인
+- ### 새우킹우기 [Link](https://www.youtube.com/watch?v=sw-D3gNTPn8)
+- ### PPing [Link](http://www.gigdc.or.kr/sub01/sub03.php)
+- ### 꼬마 온라인 [Link](http://www.gigdc.or.kr/sub01/sub03.php)
 
 ## 새우킹우기
-![새우킹우기](
+![새우킹우기](https://user-images.githubusercontent.com/64318091/119527622-78506200-bdbb-11eb-996e-38d1f1cd3cfa.png)
+[Link](url)
 
 - Nice to meet you
 - Happy to see you
