@@ -1,23 +1,10 @@
-## Heejin's Resume
+# GMGM 산출 보고서
 
-You can use the [editor on GitHub](https://github.com/July0313/july0313.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## GIGDC 출품작🗒️
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-마크 다운 사용해서 편집하기!
-
-```markdown
-Syntax highlighted code block
-```
-
-# 안녕하세요 :pizza:
-
-- 안녕하세요
-- Hello
-- Hi
+- ### 새우킹우기
+- ### PPing
+- ### 꼬마 온라인
 
 # 반갑습니다
 
@@ -67,13 +54,3 @@ void main()
 
 대충 여기 이미지도 넣고~ 링크도 넣고~
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/July0313/july0313.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
