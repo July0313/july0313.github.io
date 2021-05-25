@@ -3,8 +3,13 @@
 ## GIGDC 출품작🗒️
 
 - ### 새우킹우기 [Click](https://www.youtube.com/watch?v=sw-D3gNTPn8)
+	성안의 감염체들과 싸우는 3D RPG게임
+	
 - ### PPing [Click](http://www.gigdc.or.kr/sub01/sub03.php)
+	
+	
 - ### 꼬마 온라인 [Click](http://www.gigdc.or.kr/sub01/sub03.php)
+
 
 ## 새우킹우기
 ![새우킹우기](https://user-images.githubusercontent.com/64318091/119527622-78506200-bdbb-11eb-996e-38d1f1cd3cfa.png)
