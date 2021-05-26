@@ -19,10 +19,14 @@
 	검객을 키우는 방치형 게임, 자동 전투 시스템을 넣었다.
 
 ## **GMGM 프로젝트(개발중) 빌드 파일 링크**
+
+- ### **PPing** [Click Here](https://drive.google.com/file/d/1lpj8_roOV6L0e5OY0ymGI2bW3v5x5Baq/view)
+
 - ### **COD** (Castle of Death) [Click Here](https://drive.google.com/drive/folders/1VL3SwATSNYJnIb185AB13RgAsM1K2Kpj)
 
 ## **GMGM 프로젝트(개발중) 중 WebGL 빌드 프로젝트**
+*링크에서 웹으로 플레이해보세요!*
+
 - ### **새우킹우기** [Click Here](https://dongyeonseodev.github.io/GMGMPrawn/)
-링크에서 웹으로 플레이해보세요!
 
 **봐주셔서 감사합니다.**
