@@ -1,6 +1,8 @@
-# **GMGM 프로젝트 플레이 영상/빌드 파일 드라이브 링크**
+**GMGM 프로젝트 플레이 영상/빌드 파일 드라이브 링크**
+===================================================
 
-## **GMGM 프로젝트(개발중) 플레이 영상**
+**GMGM 프로젝트(개발중) 플레이 영상**
+------------------------------------
 
 - ### **새우킹우기** [Click Here](https://www.youtube.com/watch?v=sw-D3gNTPn8)
 ![새우키우기 타이틀](https://user-images.githubusercontent.com/64318091/119672716-c75acd80-be75-11eb-875c-d6b36d2a864e.png)
@@ -18,7 +20,8 @@
 - ### **검객 키우기** [Click Here](https://youtu.be/qYGaRKeeg30)
 	자동 전투 시스템을 넣은, 검객을 키우는 방치형 게임
 
-## **GMGM 프로젝트(개발중) 안드로이드 빌드 파일 링크**
+**GMGM 프로젝트(개발중) 안드로이드 빌드 파일 링크**
+------------------------------------
 
 - ### **새우킹우기** [Click Here](https://drive.google.com/file/d/1TlvZDA_LL969U5AkslAFor_O8gt5oBQi/view)
 
@@ -26,9 +29,9 @@
 
 - ### **COD** (Castle of Death) [Click Here](https://drive.google.com/drive/folders/1VL3SwATSNYJnIb185AB13RgAsM1K2Kpj)
 
-## **GMGM 프로젝트(개발중) 중 WebGL 빌드 프로젝트**
-*링크에서 웹으로 플레이해보세요!*
-
+**GMGM 프로젝트(개발중) 중 WebGL 빌드 프로젝트**
+------------------------------------
 - ### **새우킹우기** [Click Here](https://dongyeonseodev.github.io/GMGMPrawn/)
+*링크에서 웹으로 플레이해보세요!*
 
 # **봐주셔서 감사합니다.**
