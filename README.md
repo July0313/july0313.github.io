@@ -12,16 +12,14 @@
 - ### **COD** (Castle of Death) [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
 	성안의 감염체들과 싸우는 3D RPG게임
 	
-- ### **김범주** [Click Here](https://youtu.be/nZ7N1QXERKQ)
+- ### **마검사 키우기** [Click Here](https://youtu.be/nZ7N1QXERKQ)
+	
 
-- ### **이승혁** [Click Here]()
+- ### **검객 키우기** [Click Here](https://youtu.be/qYGaRKeeg30)
+	검객을 키우는 방치형 게임, 자동 전투 시스템을 넣었다.
 
-
-
-
-
-## 새우킹우기
-![새우킹우기](https://user-images.githubusercontent.com/64318091/119527622-78506200-bdbb-11eb-996e-38d1f1cd3cfa.png)
-[Link](url)
+## **GMGM 프로젝트(개발중) 중 WebGL 빌드 프로젝트**
+- ### **새우킹우기** [Click Here](https://dongyeonseodev.github.io/GMGMPrawn/)
+링크에서 웹으로 플레이해보세요!
 
 **봐주셔서 감사합니다.**
