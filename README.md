@@ -6,7 +6,7 @@
 ![새우키우기 타이틀](https://user-images.githubusercontent.com/64318091/119672716-c75acd80-be75-11eb-875c-d6b36d2a864e.png)
 	싱싱한 새우를 키우는 아케이드 클리커 게임
 	
-- ### **PPing** [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
+- ### **PPing** [Click Here](https://youtu.be/e6ImVKlrIhA)
 	행성을 쏴 우주(별자리)를 지나는 퍼즐 게임
 	
 - ### **COD** (Castle of Death) [Click Here](https://youtu.be/4qrM5q6NGG0)
