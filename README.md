@@ -38,7 +38,7 @@
 
 - ### **COD** (Castle of Death) [Click Here](https://drive.google.com/drive/folders/1VL3SwATSNYJnIb185AB13RgAsM1K2Kpj)
 
-- ### **마검사 키우기** [Click Here](https://drive.google.com/drive/folders/1X1xA2lZOlDBsp9aMHnjQUXqo2tsnE6La)=
+- ### **마검사 키우기** [Click Here](https://drive.google.com/drive/folders/1X1xA2lZOlDBsp9aMHnjQUXqo2tsnE6La)
 
 - ### **검객 키우기** [Click Here](https://drive.google.com/drive/folders/1-K7hJPXT-ozFjQoouKLBWU1RqcaoVloy?usp=sharing)
 
