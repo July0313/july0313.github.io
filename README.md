@@ -3,10 +3,10 @@
 ## **🗒️GIGDC 출품작**
 
 - ### **새우킹우기** [Click Here](https://www.youtube.com/watch?v=sw-D3gNTPn8)
-	새우를 키워 성장시키는 클리커 아케이드 게임
+	싱싱한 새우를 키우는 아케이드 클리커 게임
 	
 - ### **PPing** [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
-	대충 퍼즐 게임
+	행성을 쏴 우주(별자리)를 지나는 퍼즐 게임
 	
 - ### **COD** (Castle of Death) [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
 	성안의 감염체들과 싸우는 3D RPG게임
