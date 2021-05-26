@@ -9,7 +9,7 @@
 - ### **PPing** [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
 	행성을 쏴 우주(별자리)를 지나는 퍼즐 게임
 	
-- ### **COD** (Castle of Death) [Click Here](http://www.gigdc.or.kr/sub01/sub03.php)
+- ### **COD** (Castle of Death) [Click Here](https://youtu.be/4qrM5q6NGG0)
 	성안의 감염체들과 싸우는 3D RPG게임
 	
 - ### **마검사 키우기** [Click Here](https://youtu.be/nZ7N1QXERKQ)
