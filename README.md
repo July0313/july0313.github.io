@@ -16,9 +16,11 @@
 	스크롤 형태의 방치형 rpg게임
 
 - ### **검객 키우기** [Click Here](https://youtu.be/qYGaRKeeg30)
-	검객을 키우는 방치형 게임, 자동 전투 시스템을 넣었다.
+	자동 전투 시스템을 넣은, 검객을 키우는 방치형 게임
 
-## **GMGM 프로젝트(개발중) 빌드 파일 링크**
+## **GMGM 프로젝트(개발중) 안드로이드 빌드 파일 링크**
+
+- ### **새우킹우기** [Click Here](https://drive.google.com/file/d/1TlvZDA_LL969U5AkslAFor_O8gt5oBQi/view)
 
 - ### **PPing** [Click Here](https://drive.google.com/file/d/1lpj8_roOV6L0e5OY0ymGI2bW3v5x5Baq/view)
 
@@ -29,4 +31,4 @@
 
 - ### **새우킹우기** [Click Here](https://dongyeonseodev.github.io/GMGMPrawn/)
 
-**봐주셔서 감사합니다.**
+# **봐주셔서 감사합니다.**
