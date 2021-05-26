@@ -1,4 +1,4 @@
-# **GMGM 산출 보고서**
+# **GMGM 프로젝트 링크**
 
 ## **GMGM 프로젝트(개발중) 플레이 영상**
 
@@ -13,7 +13,7 @@
 	성안의 감염체들과 싸우는 3D RPG게임
 	
 - ### **마검사 키우기** [Click Here](https://youtu.be/nZ7N1QXERKQ)
-	
+	스크롤 형태의 방치형 rpg게임
 
 - ### **검객 키우기** [Click Here](https://youtu.be/qYGaRKeeg30)
 	검객을 키우는 방치형 게임, 자동 전투 시스템을 넣었다.
