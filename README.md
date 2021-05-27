@@ -13,7 +13,7 @@
 	싱싱한 새우를 키우는 아케이드 클리커 게임
 	
 - ### **PPing** [Click Here](https://youtu.be/e6ImVKlrIhA)
-- ### **PPing_final ver** [Click Here](https://youtu.be/jbB70-R8fAk)
+- ### **PPing_merge ver** [Click Here](https://youtu.be/jbB70-R8fAk)
 	행성을 쏴 우주(별자리)를 지나는 퍼즐 게임
 	
 - ### **COD** (Castle of Death) [Click Here](https://youtu.be/4qrM5q6NGG0)
@@ -35,7 +35,7 @@
 - ### **새우킹우기** [Click Here](https://drive.google.com/file/d/1TlvZDA_LL969U5AkslAFor_O8gt5oBQi/view)
 
 - ### **PPing** [Click Here](https://drive.google.com/file/d/1lpj8_roOV6L0e5OY0ymGI2bW3v5x5Baq/view)
-- ### **PPing_final** [Click Here](https://drive.google.com/file/d/1X9W3zG-8f9zYF4VLOnOnZYsw7b5QFy68/view)
+- ### **PPing_merge ver** [Click Here](https://drive.google.com/file/d/1X9W3zG-8f9zYF4VLOnOnZYsw7b5QFy68/view)
 
 - ### **COD** (Castle of Death) [Click Here](https://drive.google.com/drive/folders/1VL3SwATSNYJnIb185AB13RgAsM1K2Kpj)
 
