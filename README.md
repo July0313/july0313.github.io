@@ -8,7 +8,7 @@
 
 
 
-- ### **새우킹우기** [Click Here](https://www.youtube.com/watch?v=sw-D3gNTPn8)
+- ### **새우킹우기** [Click Here](https://www.youtube.com/watch?v=pGgQzYZA9b0)
 ![새우키우기 타이틀](https://user-images.githubusercontent.com/64318091/119672716-c75acd80-be75-11eb-875c-d6b36d2a864e.png)
 	싱싱한 새우를 키우는 아케이드 클리커 게임
 	
