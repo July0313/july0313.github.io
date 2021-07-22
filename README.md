@@ -15,16 +15,13 @@
 - ### **PPing** [Click Here](https://youtu.be/64WlJLVbZb0)
 	플레이어볼을 발사해 골인시키는 퍼즐 게임
 	
-- ### **마검사 키우기** [Click Here](https://youtu.be/nZ7N1QXERKQ)
+- ### **마검사 키우기(김범주)** [Click Here](https://youtu.be/HQabFldfBus)
 	스크롤 형태의 방치형 rpg게임
 
 - ### **검객 키우기** [Click Here](https://youtu.be/qYGaRKeeg30)
 	자동 전투 시스템을 넣은, 검객을 키우는 방치형 게임
 
-- ### **김범주** [Click Here](https://youtu.be/HQabFldfBus)
-	???
-
-- ### **최희진** [Click Here](https://youtu.be/5QuL7wYXua8)
+- ### **TTb(최희진)** [Click Here](https://youtu.be/5QuL7wYXua8)
 	???
 
 **GMGM 프로젝트(개발중) 안드로이드 빌드 파일 링크**
