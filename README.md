@@ -31,8 +31,7 @@
 
 - ### **새우킹우기** [Click Here](https://drive.google.com/file/d/1TlvZDA_LL969U5AkslAFor_O8gt5oBQi/view)
 
-- ### **PPing** [Click Here](https://drive.google.com/file/d/1lpj8_roOV6L0e5OY0ymGI2bW3v5x5Baq/view)
-- ### **PPing_merge ver** [Click Here](https://drive.google.com/file/d/1X9W3zG-8f9zYF4VLOnOnZYsw7b5QFy68/view)
+- ### **PPing** [Click Here](https://drive.google.com/file/d/12iQGWMUDAEvULFpfM6X51W-o7i_QQb0G/view)
 
 - ### **COD** (Castle of Death) [Click Here](https://drive.google.com/drive/folders/1VL3SwATSNYJnIb185AB13RgAsM1K2Kpj)
 
