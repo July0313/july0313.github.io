@@ -17,9 +17,6 @@
 	
 - ### **마검사 키우기(김범주)** [Click Here](https://youtu.be/HQabFldfBus)
 	스크롤 형태의 방치형 rpg게임
-
-- ### **검객 키우기** [Click Here](https://youtu.be/qYGaRKeeg30)
-	자동 전투 시스템을 넣은, 검객을 키우는 방치형 게임
 	
 - ### **가보자 지휘관(이승혁)** [Click Here](https://youtu.be/md2vUQ_n9TA)
 	오직 조이스틱 하나만으로 자신의 군대를 조정하며 적을 처치하며 스테이지를 진행하는 하이퍼 캐주얼 슈팅 게임
@@ -39,9 +36,7 @@
 - ### **COD** (Castle of Death) [Click Here](https://drive.google.com/drive/folders/1VL3SwATSNYJnIb185AB13RgAsM1K2Kpj)
 
 - ### **마검사 키우기(김범주)** [Click Here](https://drive.google.com/drive/folders/1X1xA2lZOlDBsp9aMHnjQUXqo2tsnE6La)
-
-- ### **검객 키우기** [Click Here](https://drive.google.com/drive/folders/1-K7hJPXT-ozFjQoouKLBWU1RqcaoVloy?usp=sharing)
-
+- 
 - ### **가보자 지휘관(이승혁)** [Click Here](https://play.google.com/store/apps/details?id=com.SeunghyeokCompany.LetsGoCommander)
 	오직 조이스틱 하나만으로 자신의 군대를 조정하며 적을 처치하며 스테이지를 진행하는 하이퍼 캐주얼 슈팅 게임
 	
