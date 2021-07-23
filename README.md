@@ -22,7 +22,7 @@
 	자동 전투 시스템을 넣은, 검객을 키우는 방치형 게임
 	
 - ### **가보자 지휘관(이승혁)** [Click Here](https://play.google.com/store/apps/details?id=com.SeunghyeokCompany.LetsGoCommander)
-	자동 전투 시스템을 넣은, 검객을 키우는 방치형 게임
+	오직 조이스틱 하나만으로 자신의 군대를 조정하며 적을 처치하며 스테이지를 진행하는 하이퍼 캐주얼 슈팅 게임
 	
 - ### **TTb(최희진)** [Click Here](https://youtu.be/5QuL7wYXua8)
 	오직 방향전환과 점프만을 이용해 스테이지를 클리어하는 캐주얼 아케이드 게임
