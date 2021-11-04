@@ -1,4 +1,4 @@
-**GMGM REPORT**
+**GMGM 3rd Quarter REPORT**
 ===================================================
 
 
@@ -9,8 +9,6 @@
 
 
 - ### **새우킹우기** [Click Here](https://youtu.be/WeaW3R7a4ek)
-![새우키우기 타이틀](https://user-images.githubusercontent.com/64318091/119672716-c75acd80-be75-11eb-875c-d6b36d2a864e.png)
-	싱싱한 새우를 키우는 아케이드 클리커 게임
 	
 - ### **PPing** [Click Here](https://youtu.be/64WlJLVbZb0)
 	장애물을 피해 플레이어볼을 발사, 골인시키는 퍼즐 게임
@@ -54,6 +52,16 @@
 - ### **새우킹우기** [Click Here](https://dongyeonseodev.github.io/GMGMPrawn/)
 *링크에서 웹으로 플레이해보세요!*
 
+**GMGM 프로젝트 기획서** [Click Here]
+------------------------------------
 
+
+- ### **Shadow_in_the_shade(이민형)** [Click Here](https://drive.google.com/file/d/1gajGIMCGR1t_JYvq0LFjRUWVWQvQV7lg/view?usp=sharing)
+
+**GMGM 역기획서** 
+------------------------------------
+
+
+- ### **Rish_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
 
 # **봐주셔서 감사합니다.**
