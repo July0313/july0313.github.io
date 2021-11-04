@@ -11,6 +11,8 @@
 - ### **GwangHyun(박광현)** [Click Here](https://youtu.be/WeaW3R7a4ek)
 
 - ### **검 키우기** [Click Here](https://www.youtube.com/shorts/SQG6la9csBc)
+김범주, 정진효
+
 
 - 
 
