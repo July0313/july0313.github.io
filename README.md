@@ -10,10 +10,11 @@
 
 - ### **GwangHyun(박광현)** [Click Here](https://youtu.be/WeaW3R7a4ek)
 
-- ### **검 키우기** [Click Here](https://www.youtube.com/shorts/SQG6la9csBc)
+- ### **검 키우기(Rasing A Sword)** [Click Here](https://www.youtube.com/shorts/SQG6la9csBc)
 
 - ### **ReleasedSoul** [Click Here](https://youtu.be/RxBAduIjTfw)
 
+- ### **버섯을 조심해!** [Click Here](https://youtu.be/5wBwXInPC-8)
 
 
 **GMGM 프로젝트(개발중) 안드로이드 빌드 파일 링크**
@@ -22,23 +23,6 @@
 
 - ### **지구를 밝혀라(이태영)** [Click Here](https://drive.google.com/file/d/1-AJWYMCXCfSyUUn7hooaV1koTN6wrPC9/view)
 
-- ### **새우킹우기** [Click Here](https://drive.google.com/file/d/1MtiA5lNVNAO0g2VDF73JiNuTR_xk6ZOu/view?usp=sharing)
-
-- ### **PPing** [Click Here](https://drive.google.com/file/d/12iQGWMUDAEvULFpfM6X51W-o7i_QQb0G/view)
-
-- ### **COD** (Castle of Death) [Click Here](https://drive.google.com/drive/folders/1VL3SwATSNYJnIb185AB13RgAsM1K2Kpj)
-
-- ### **마검사 키우기(김범주)** [Click Here](https://drive.google.com/file/d/12Q7czSBDr0HG6evlG0kN0n3LWwyaChkJ/view?usp=sharing)
-	오직 조이스틱 하나만으로 자신의 군대를 조정하며 적을 처치하며 스테이지를 진행하는 하이퍼 캐주얼 슈팅 게임
-
-- ### **NECROMANCEWORLD(김범주)** [Click Here](https://drive.google.com/file/d/1pw-ptRrHMExeIURZCFtibT-LC8iONM51/view?usp=sharing)
-	오직 조이스틱 하나만으로 자신의 군대를 조정하며 적을 처치하며 스테이지를 진행하는 하이퍼 캐주얼 슈팅 게임
-
-- ### **가보자 지휘관(이승혁)** [Click Here](https://play.google.com/store/apps/details?id=com.SeunghyeokCompany.LetsGoCommander)
-	오직 조이스틱 하나만으로 자신의 군대를 조정하며 적을 처치하며 스테이지를 진행하는 하이퍼 캐주얼 슈팅 게임
-
-- ### **TTb(최희진)** [Click Here](https://drive.google.com/file/d/1tqy1XU64uoMLi9Jd5JHzaoHvu-ugCe7A/view?usp=sharing)
-	오직 방향전환과 점프만을 이용해 스테이지를 클리어하는 캐주얼 아케이드 게임
 
 **GMGM 프로젝트(개발중) 중 WebGL 빌드 프로젝트**
 ------------------------------------
@@ -62,6 +46,7 @@
 
 - ### **Rish_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
 
-- ### **애니팡4 역기획서(이소은)** [Click Here]()
+- ### **애니팡4 역기획서(이소은)** [Click Here](https://drive.google.com/file/d/1IffhCrbztJd41_bjqKYdXnrGnNnXn74o/view?usp=sharing)
+- 
 
 # **봐주셔서 감사합니다.**
