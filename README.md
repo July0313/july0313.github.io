@@ -49,18 +49,19 @@
 ------------------------------------
 
 
-- ### **새우킹우기** [Click Here](https://dongyeonseodev.github.io/GMGMPrawn/)
+- ### **구해ZOO 퍼즐** [Click Here](https://dongyeonseodev.github.io/GMGMPuzzle/)
 *링크에서 웹으로 플레이해보세요!*
+
 
 **GMGM 프로젝트 기획서** [Click Here]
 ------------------------------------
 
-
 - ### **Shadow_in_the_shade(이민형)** [Click Here](https://drive.google.com/file/d/1gajGIMCGR1t_JYvq0LFjRUWVWQvQV7lg/view?usp=sharing)
+
+
 
 **GMGM 역기획서** 
 ------------------------------------
-
 
 - ### **Rish_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
 
