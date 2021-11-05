@@ -39,7 +39,7 @@
 
 **버섯을 조심해!**
 ------------------------------------
-버섯을 먹지 않기 위해 버섯을 피해 플레이하는 플랫포머 게임
+버섯을 먹지 않기 위해 고군분투하는 플랫포머 게임
 - ### **플레이 영상** [Show](https://youtu.be/5wBwXInPC-8)
 - ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/1PWPsH37qRuJIUzxhCSaOz-pY_gNcY73b/view?usp=sharing)
 
