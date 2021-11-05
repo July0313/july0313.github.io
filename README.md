@@ -43,13 +43,12 @@
 
 **Nining The Frog**
 ------------------------------------
-> - ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/1LExpnXFyOtpGwrUELIa69QxSdcWKtXd2/view?usp=sharing)  
+> ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/1LExpnXFyOtpGwrUELIa69QxSdcWKtXd2/view?usp=sharing)  
 
 
 **무지개 반사**
 ------------------------------------
->
-- ### **플레이 영상** [Show](https://youtu.be/WeaW3R7a4ek)  
+> ### **플레이 영상** [Show](https://youtu.be/WeaW3R7a4ek)  
 
 
 **지구를 밝혀라**
