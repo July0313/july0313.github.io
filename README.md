@@ -4,8 +4,9 @@
 *아래는 GMGM에서 3분기 개발중인 프로젝트입니다.*
 
 
-**구해ZOO(김가윤, 박광현, 서동연, 이소은)**
+**구해ZOO**
 ------------------------------------
+*김가윤, 박광현, 서동연, 이소은*
 제한 시간 내에 갇힌 동물들을 모두 구해야 하는 퍼즐 게임
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/1h-DkY0hY8MJTf7k0wiX7CvfHbGWFsi8R/view)
 - ### **플레이 영상** [Show](https://youtu.be/sO1cBWWnNJ8)
@@ -15,6 +16,7 @@
 
 **Released Soul**
 ------------------------------------
+김건범, 정진효
 6대륙의 평화를 위해 악마를 소탕하는 방치형 + 액션 RPG 모바일 게임
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/11MpXipLlqucDQN08H9uP--T5Myya0WPo/view?usp=sharing)
 - ### **플레이 영상** [Show](https://youtu.be/RxBAduIjTfw)
@@ -23,6 +25,7 @@
 
 **가재가 집에 가재**
 ------------------------------------
+*이태영, 최희진*
 치킨이 되지 않으려 도망가는 캐주얼 런 게임
 - ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/15Nzalba0Az_HApsrASbzdh5ZN4z-xUHT/view?usp=sharing)
 
@@ -51,12 +54,12 @@
 - ### **플레이 영상** [Show](https://youtu.be/WeaW3R7a4ek)
 
 
-**지구를 밝혀라(이태영)**
+**지구를 밝혀라**
 ------------------------------------
 - ### **빌드 파일(apk)** [Play](https://drive.google.com/file/d/1-AJWYMCXCfSyUUn7hooaV1koTN6wrPC9/view)
 
 
-**Shadow_in_the_shade(이민형)**
+**Shadow_in_the_shade**
 ------------------------------------
 새로운 전투 방식의 로그라이크 게임
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/1gajGIMCGR1t_JYvq0LFjRUWVWQvQV7lg/view?usp=sharing)
