@@ -6,7 +6,7 @@
 **GMGM 프로젝트(개발중) 플레이 영상**
 ------------------------------------
 
-- ### **GwangHyun(박광현)** [Click Here](https://youtu.be/WeaW3R7a4ek)
+- ### **무지개 반사(박광현)** [Click Here](https://youtu.be/WeaW3R7a4ek)
 
 - ### **검 키우기(Rasing A Sword)** [Click Here](https://www.youtube.com/shorts/SQG6la9csBc)
 
