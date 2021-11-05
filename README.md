@@ -23,7 +23,7 @@
 
 **가재가 집에 가재**
 ------------------------------------
-잡혀서 치킨이 되지 않기 위해 도망가는 캐주얼 런 게임
+치킨이 되지 않으려 도망가는 캐주얼 런 게임
 - ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/15Nzalba0Az_HApsrASbzdh5ZN4z-xUHT/view?usp=sharing)
 
 
