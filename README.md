@@ -66,8 +66,8 @@
 **GMGM 역기획서** 
 ------------------------------------
 
-> ### **Risk_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
-> ### **애니팡4 역기획서(이소은)** [Click Here](https://drive.google.com/file/d/1IffhCrbztJd41_bjqKYdXnrGnNnXn74o/view?usp=sharing)  
+> - ### **Risk_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
+- ### **애니팡4 역기획서(이소은)** [Click Here](https://drive.google.com/file/d/1IffhCrbztJd41_bjqKYdXnrGnNnXn74o/view?usp=sharing)  
 
 
 **프로젝트 참여자**
