@@ -15,7 +15,7 @@
 
 **Released Soul**
 ------------------------------------
-6대륙의 평화를 위해 모든 대륙의 악마를 소탕하는 방치형 + 액션 RPG 모바일 게임
+6대륙의 평화를 위해 악마를 소탕하는 방치형 + 액션 RPG 모바일 게임
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/11MpXipLlqucDQN08H9uP--T5Myya0WPo/view?usp=sharing)
 - ### **플레이 영상** [Show](https://youtu.be/RxBAduIjTfw)
 - ### **빌드 파일(apk)** [Play](https://drive.google.com/file/d/1nZT2g58zS5U9pQSmBNB47ESRQS3NDyI-/view?usp=sharing)
