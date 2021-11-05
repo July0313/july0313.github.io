@@ -17,7 +17,8 @@
 
 
 
-**Released Soul**(김건범, 정진효)
+**Released Soul**
+(김건범, 정진효)
 ------------------------------------
 - ### **플레이 영상** [Show](https://youtu.be/RxBAduIjTfw)
 - ### **빌드 파일(apk)** [Play](https://drive.google.com/file/d/1nZT2g58zS5U9pQSmBNB47ESRQS3NDyI-/view?usp=sharing)
