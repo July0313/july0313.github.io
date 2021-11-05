@@ -7,7 +7,7 @@
 **구해ZOO**
 ------------------------------------
 *김가윤, 박광현, 서동연, 이소은*  
-제한 시간 내에 갇힌 동물들을 모두 구해야 하는 퍼즐 게임
+> 제한 시간 내에 갇힌 동물들을 모두 구해야 하는 퍼즐 게임
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/1h-DkY0hY8MJTf7k0wiX7CvfHbGWFsi8R/view)
 - ### **플레이 영상** [Show](https://youtu.be/sO1cBWWnNJ8)
 - ### **빌드 파일(WebGL)** [Play](https://dongyeonseodev.github.io/GMGMPuzzle/)
