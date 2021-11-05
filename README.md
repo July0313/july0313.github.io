@@ -15,7 +15,7 @@
 
 **Released Soul**
 ------------------------------------
-6대륙의 평화를 위해 악마를 소탕하는 방치형 + 액션 RPG 모바일 게임
+> 6대륙의 평화를 위해 악마를 소탕하는 방치형 + 액션 RPG 모바일 게임
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/11MpXipLlqucDQN08H9uP--T5Myya0WPo/view?usp=sharing)
 - ### **플레이 영상** [Show](https://youtu.be/RxBAduIjTfw)
 - ### **빌드 파일(apk)** [Play](https://drive.google.com/file/d/1nZT2g58zS5U9pQSmBNB47ESRQS3NDyI-/view?usp=sharing)  
@@ -23,20 +23,20 @@
 
 **가재가 집에 가재**
 ------------------------------------
-치킨이 되지 않으려 도망가는 캐주얼 런 게임
+> 치킨이 되지 않으려면 도망가야 하는 캐주얼 런 게임
 - ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/15Nzalba0Az_HApsrASbzdh5ZN4z-xUHT/view?usp=sharing)  
 
 
 **검 키우기**
 ------------------------------------
-표창 키우기 게임의 시스템을 이용한 캐주얼 게임
+> 표창 키우기 게임의 시스템을 이용한 캐주얼 게임
 - ### **플레이 영상** [Show](https://www.youtube.com/shorts/SQG6la9csBc)  
 
 
 
 **버섯을 조심해!**
 ------------------------------------
-버섯을 먹지 않기 위해 고군분투하는 플랫포머 게임
+> 버섯을 먹지 않기 위해 고군분투하는 플랫포머 게임
 - ### **플레이 영상** [Show](https://youtu.be/5wBwXInPC-8)
 - ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/1PWPsH37qRuJIUzxhCSaOz-pY_gNcY73b/view?usp=sharing)  
 
