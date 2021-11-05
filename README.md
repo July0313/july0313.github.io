@@ -6,9 +6,9 @@
 **GMGM 프로젝트(개발중) 플레이 영상**
 ------------------------------------
 
-- ### **무지개 반사(박광현)** [Click Here](https://youtu.be/WeaW3R7a4ek)
+- ### **무지개 반사** [Click Here](https://youtu.be/WeaW3R7a4ek)
 
-- ### **검 키우기(Rasing A Sword)** [Click Here](https://www.youtube.com/shorts/SQG6la9csBc)
+- ### **검 키우기** [Click Here](https://www.youtube.com/shorts/SQG6la9csBc)
 
 - ### **Released Soul** [Click Here](https://youtu.be/RxBAduIjTfw)
 
@@ -20,9 +20,9 @@
 **GMGM 프로젝트(개발중) exe 실행 파일 링크**
 ------------------------------------
 
-- ### **버섯을 조심해!** [Click Here](https://drive.google.com/file/d/1PWPsH37qRuJIUzxhCSaOz-pY_gNcY73b/view?usp=sharing)
+- ### **버섯을 조심해!(이소은, 최희진)** [Click Here](https://drive.google.com/file/d/1PWPsH37qRuJIUzxhCSaOz-pY_gNcY73b/view?usp=sharing)
 
-- ### **가재가 집에 가재** [Click Here](https://drive.google.com/file/d/15Nzalba0Az_HApsrASbzdh5ZN4z-xUHT/view?usp=sharing)
+- ### **가재가 집에 가재(이태영, 최희진)** [Click Here](https://drive.google.com/file/d/15Nzalba0Az_HApsrASbzdh5ZN4z-xUHT/view?usp=sharing)
 
 - ### **Nining The Frog(김가윤)** [Click Here](https://drive.google.com/file/d/1LExpnXFyOtpGwrUELIa69QxSdcWKtXd2/view?usp=sharing)
 
@@ -63,5 +63,7 @@
 - ### **Risk_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
 
 - ### **애니팡4 역기획서(이소은)** [Click Here](https://drive.google.com/file/d/1IffhCrbztJd41_bjqKYdXnrGnNnXn74o/view?usp=sharing)
+
+
 
 # **봐주셔서 감사합니다.**
