@@ -43,11 +43,12 @@
 
 **Nining The Frog**
 ------------------------------------
-- ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/1LExpnXFyOtpGwrUELIa69QxSdcWKtXd2/view?usp=sharing)  
+> - ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/1LExpnXFyOtpGwrUELIa69QxSdcWKtXd2/view?usp=sharing)  
 
 
 **무지개 반사**
 ------------------------------------
+>
 - ### **플레이 영상** [Show](https://youtu.be/WeaW3R7a4ek)  
 
 
@@ -73,7 +74,6 @@
 
 **프로젝트 참여자**
 --------------------------------
-![List](https://user-images.githubusercontent.com/64318091/140443750-32b81ef9-37ee-4216-8c82-86bd7b8f0b9b.png)
 ![gmgm](https://user-images.githubusercontent.com/64318091/140444033-66f0fafc-8220-4e22-821f-ac108234b856.png)
 
 # **봐주셔서 감사합니다.**
