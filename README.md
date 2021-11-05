@@ -71,5 +71,8 @@
 - ### **애니팡4 역기획서(이소은)** [Click Here](https://drive.google.com/file/d/1IffhCrbztJd41_bjqKYdXnrGnNnXn74o/view?usp=sharing)  
 
 
+**프로젝트 참여자**
+--------------------------------
+![List](https://user-images.githubusercontent.com/64318091/140443750-32b81ef9-37ee-4216-8c82-86bd7b8f0b9b.png)
 
 # **봐주셔서 감사합니다.**
