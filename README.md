@@ -47,7 +47,7 @@
 
 
 
-**GMGM 프로젝트 기획서** [Click Here]
+**GMGM 프로젝트 기획서**
 ------------------------------------
 
 - ### **구해ZOO 퍼즐** [Click Here](https://drive.google.com/file/d/1h-DkY0hY8MJTf7k0wiX7CvfHbGWFsi8R/view)
