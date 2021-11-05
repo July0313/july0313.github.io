@@ -5,20 +5,18 @@
 
 **무지개 반사**
 ------------------------------------
-  박광현
 - ### **플레이 영상** [Show](https://youtu.be/WeaW3R7a4ek)
 
 
 
 **검 키우기**
 ------------------------------------
-  김범주, 정진효
+표창 키우기 게임의 시스템을 이용한 캐주얼 게임
 - ### **플레이 영상** [Show](https://www.youtube.com/shorts/SQG6la9csBc)
 
 
 
 **Released Soul**
-(김건범, 정진효)
 ------------------------------------
 - ### **플레이 영상** [Show](https://youtu.be/RxBAduIjTfw)
 - ### **빌드 파일(apk)** [Play](https://drive.google.com/file/d/1nZT2g58zS5U9pQSmBNB47ESRQS3NDyI-/view?usp=sharing)
