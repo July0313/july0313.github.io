@@ -17,14 +17,14 @@
 
 
 
-**Released Soul(김건범, 정진효)**
+**Released Soul**(김건범, 정진효)
 ------------------------------------
 - ### **플레이 영상** [Show](https://youtu.be/RxBAduIjTfw)
 - ### **빌드 파일(apk)** [Play](https://drive.google.com/file/d/1nZT2g58zS5U9pQSmBNB47ESRQS3NDyI-/view?usp=sharing)
 
 
 
-**버섯을 조심해!(이소은, 최희진)**
+**버섯을 조심해!**(이소은, 최희진)
 ------------------------------------
 - ### **플레이 영상** [Show](https://youtu.be/5wBwXInPC-8)
 - ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/1PWPsH37qRuJIUzxhCSaOz-pY_gNcY73b/view?usp=sharing)
