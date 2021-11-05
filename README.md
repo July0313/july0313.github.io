@@ -53,12 +53,12 @@
 
 **지구를 밝혀라**
 ------------------------------------
-- ### **빌드 파일(apk)** [Play](https://drive.google.com/file/d/1-AJWYMCXCfSyUUn7hooaV1koTN6wrPC9/view)  
+> ### **빌드 파일(apk)** [Play](https://drive.google.com/file/d/1-AJWYMCXCfSyUUn7hooaV1koTN6wrPC9/view)  
 
 
 **Shadow_in_the_shade**
 ------------------------------------
-새로운 전투 방식의 로그라이크 게임
+> 새로운 전투 방식의 로그라이크 게임
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/1gajGIMCGR1t_JYvq0LFjRUWVWQvQV7lg/view?usp=sharing)  
 
 
@@ -66,7 +66,7 @@
 **GMGM 역기획서** 
 ------------------------------------
 
-- ### **Risk_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
+> ### **Risk_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
 
 - ### **애니팡4 역기획서(이소은)** [Click Here](https://drive.google.com/file/d/1IffhCrbztJd41_bjqKYdXnrGnNnXn74o/view?usp=sharing)  
 
