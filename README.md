@@ -59,6 +59,7 @@
 
 **Shadow_in_the_shade(이민형)**
 ------------------------------------
+새로운 전투 방식의 로그라이크 게임
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/1gajGIMCGR1t_JYvq0LFjRUWVWQvQV7lg/view?usp=sharing)
 
 
