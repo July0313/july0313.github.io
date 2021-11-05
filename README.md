@@ -10,7 +10,7 @@
 
 - ### **검 키우기(Rasing A Sword)** [Click Here](https://www.youtube.com/shorts/SQG6la9csBc)
 
-- ### **ReleasedSoul** [Click Here](https://youtu.be/RxBAduIjTfw)
+- ### **Released Soul** [Click Here](https://youtu.be/RxBAduIjTfw)
 
 - ### **버섯을 조심해!** [Click Here](https://youtu.be/5wBwXInPC-8)
 
