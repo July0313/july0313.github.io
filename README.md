@@ -24,7 +24,7 @@
 
 - ### **가재가 집에 가재** [Click Here](https://drive.google.com/file/d/15Nzalba0Az_HApsrASbzdh5ZN4z-xUHT/view?usp=sharing)
 
-- ### **Nining The Frog** [Click Here](https://drive.google.com/file/d/1LExpnXFyOtpGwrUELIa69QxSdcWKtXd2/view?usp=sharing)
+- ### **Nining The Frog(김가윤)** [Click Here](https://drive.google.com/file/d/1LExpnXFyOtpGwrUELIa69QxSdcWKtXd2/view?usp=sharing)
 
 
 
@@ -34,7 +34,7 @@
 
 - ### **지구를 밝혀라(이태영)** [Click Here](https://drive.google.com/file/d/1-AJWYMCXCfSyUUn7hooaV1koTN6wrPC9/view)
 
-- ### **Released Soul** [Click Here]()
+- ### **Released Soul** [Click Here](https://drive.google.com/file/d/1nZT2g58zS5U9pQSmBNB47ESRQS3NDyI-/view?usp=sharing)
 
 
 
