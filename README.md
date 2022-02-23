@@ -38,7 +38,6 @@
 ------------------------------------
 > 버섯을 먹지 않기 위해 고군분투하는 플랫포머 게임
 - ### **플레이 영상** [Show](https://youtu.be/5wBwXInPC-8)
-- ### **실행 파일(PC)** [Play](https://drive.google.com/file/d/1PWPsH37qRuJIUzxhCSaOz-pY_gNcY73b/view?usp=sharing)  
 
 
 **Nining The Frog**
@@ -74,4 +73,4 @@
 --------------------------------
 ![gmgm](https://user-images.githubusercontent.com/64318091/140444033-66f0fafc-8220-4e22-821f-ac108234b856.png)
 
-# **봐주셔서 감사합니다.**
+# **감사합니다.**
