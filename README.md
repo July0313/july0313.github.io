@@ -1,10 +1,11 @@
 **GMGM 2nd Quarter REPORT**
 ===================================================
-<br/>
+
 **2분기 산출물**
 ------------------------------------
+> 새우킹우기, NecromanceWorld, Tap The Ball, 가보자 지휘관, PPing
 - ### **PPT 자료** [Download](https://drive.google.com/file/d/13WibpxdXv5wHFStMgL56-GRiJBmGsT0V/view?usp=sharing)
-
+<br/>
 
 **GMGM 3rd Quarter REPORT**
 ===================================================
