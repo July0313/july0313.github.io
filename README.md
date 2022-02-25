@@ -1,3 +1,11 @@
+**GMGM 2nd Quarter REPORT**
+===================================================
+<br/>
+**2분기 산출물**
+------------------------------------
+- ### **PPT 자료** [Download](https://drive.google.com/file/d/13WibpxdXv5wHFStMgL56-GRiJBmGsT0V/view?usp=sharing)
+
+
 **GMGM 3rd Quarter REPORT**
 ===================================================
 
