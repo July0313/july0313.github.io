@@ -70,8 +70,7 @@
 - ### **프로젝트 기획서** [Click Here](https://drive.google.com/file/d/1gajGIMCGR1t_JYvq0LFjRUWVWQvQV7lg/view?usp=sharing)  
 
 
-
-**GMGM 역기획서** 
+**역기획서** 
 ------------------------------------
 
 > - ### **Risk_Of_Rain(이민형)** [Click Here](https://drive.google.com/file/d/1DHuYC1uzRi6Ulcz8Cp0DVftcUOWSK09o/view?usp=sharing)
@@ -81,5 +80,14 @@
 **프로젝트 참여자**
 --------------------------------
 ![gmgm](https://user-images.githubusercontent.com/64318091/140444033-66f0fafc-8220-4e22-821f-ac108234b856.png)
+
+**GMGM 4th Quarter REPORT**
+===================================================
+
+**4분기 산출물**
+------------------------------------
+> ZSD, HAZA Minigames
+- ### **ZSD PPT** [Download](https://drive.google.com/file/d/1RDIdwy9CcByjQAuOIBqU7i4RLsamBB-b/view?usp=sharing)
+<br/>
 
 # **감사합니다.**
